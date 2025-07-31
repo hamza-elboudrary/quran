@@ -1,6 +1,6 @@
-# 📖 Quran Short Surahs Web App
+# 📖 Quran Short Tilawa Web App
 
-A simple and elegant static web page that displays short Surahs (chapters) from the Holy Quran using **HTML**, **CSS**, and **JavaScript**.
+A simple and elegant static web page that displays short tlawa (chapters) from the Holy Quran using **HTML**, **CSS**, and **JavaScript**.
 
 🔗 **Live Demo**: [hamza-elboudrary.github.io/quran](https://hamza-elboudrary.github.io/quran/)
 
@@ -9,8 +9,7 @@ A simple and elegant static web page that displays short Surahs (chapters) from 
 ## 🌟 Features
 
 - ✅ Clean and responsive design
-- ✅ Contains selected short Surahs (e.g., Al-Fatiha, Al-Ikhlas, Al-Falaq, An-Nas...)
-- ✅ Arabic text display
+- ✅ Contains selected short tilawa
 - ✅ Fully static website hosted with **GitHub Pages**
 
 ---
